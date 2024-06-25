@@ -1,4 +1,4 @@
-package model_dao;
+package model.dao;
 
 import model.entities.Seller;
 
